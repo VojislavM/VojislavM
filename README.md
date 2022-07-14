@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **VojislavM/VojislavM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Public GPG key
+Command for geting my public gpg key:
+```
+curl -O https://github.com/VojislavM.gpg
+```
 
 ---
 
